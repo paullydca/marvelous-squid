@@ -75,7 +75,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Quest Carbon Cycles
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
