@@ -59,7 +59,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: Quest Carbon Cycles
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
