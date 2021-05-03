@@ -77,6 +77,6 @@ seo:
     - name: 'twitter:title'
       value: Quest Carbon Cycles
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: /images/150463760_940576776747579_4768869229828866243_o.jpg
       relativeUrl: true
 ---
