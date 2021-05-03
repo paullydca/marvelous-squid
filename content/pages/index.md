@@ -49,7 +49,6 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Time to start your Quest
-    subtitle: from $149.99
     image: images/148998824_938362240302366_5819074544957206513_o.jpg
     background_image: images/leaf.svg
     cta:
