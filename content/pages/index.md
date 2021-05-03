@@ -10,7 +10,7 @@ sections:
     content: |
       # Get lost, &#xA;create adventure, &#xA;find your **Quest.**
     actions:
-      - title: See all items
+      - title: Start Your Adventure
         url: /store
         arrow: true
         style: primary
