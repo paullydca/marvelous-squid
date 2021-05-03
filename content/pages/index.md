@@ -72,7 +72,7 @@ seo:
       value: The preview of the Planty theme
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: /images/150463760_940576776747579_4768869229828866243_o.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
