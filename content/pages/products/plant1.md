@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '7599'
-title: Quest AMT
+title: Quest AMT XT
 description: >-
   If your Quest is to ride a mixture of technical downhill and XC single track
   the Q-AMT series is for you. The Q-AMT is an aggressive all mountain trail
