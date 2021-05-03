@@ -12,7 +12,7 @@ sections:
     actions:
       - title: Start Your Adventure
         url: /store
-        arrow: true
+        arrow: false
         style: secondary
   - type: featured_products_section
     section_id: best_sellers_section
