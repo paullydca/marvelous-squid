@@ -4,9 +4,11 @@ id: '1'
 price: '49.40'
 title: Quest AMT
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  If your Quest is to ride a mixture of technical downhill and XC single track
+  the Q-AMT series is for you. The Q-AMT is an aggressive all mountain trail
+  bike.  It is designed to ride aggressive and fast.  The pivot-less 4-point
+  suspension keeps your power pushing up hill so you can reward yourself with a
+  furious race down.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
