@@ -60,7 +60,7 @@ sections:
       arrow: true
 seo:
   title: Quest Carbon Cycles
-  description: The preview of the Planty theme
+  description: Premium Japanese Toray carbon fibre bicycles assembled in Atlantic Canada.
   extra:
     - name: 'og:type'
       value: website
