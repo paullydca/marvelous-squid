@@ -9,7 +9,7 @@ description: >-
   bike.  It is designed to ride aggressive and fast.  The pivot-less 4-point
   suspension keeps your power pushing up hill so you can reward yourself with a
   furious race down.
-default_thumbnail_image: images/BlueGreyMTN_Print_Transparent.png
+default_thumbnail_image: images/BlueGreyMTN_Print_WH.png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
