@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/promo.jpg
+    background_image: images/150463760_940576776747579_4768869229828866243_o.jpg
     background_image_opacity: 65
     content: |+
       # Get lost, create adventure, find your Quest.
