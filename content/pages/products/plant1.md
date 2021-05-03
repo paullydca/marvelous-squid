@@ -10,7 +10,7 @@ description: >-
   suspension keeps your power pushing up hill so you can reward yourself with a
   furious race down.
 default_thumbnail_image: images/BlueGreyMTN_Print_WH.png
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/BlueGreyMTN_Print_Transparent.png
 featured: true
 order: 1
 category: content/pages/category/bigplants.md
