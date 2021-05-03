@@ -50,7 +50,7 @@ sections:
     section_id: promotion_section
     title: Time to start your Quest
     image: images/148998824_938362240302366_5819074544957206513_o.jpg
-    background_image: images/147815262_939205530218037_640274780583941664_o.jpg
+    background_image: images/172589336_981045216034068_2841739212225604360_n.jpg
     cta:
       title: Discover
       url: /store
