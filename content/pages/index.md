@@ -54,7 +54,7 @@ sections:
     cta:
       title: Discover
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Quest Carbon Cycles
