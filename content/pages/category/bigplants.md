@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Mountain Bikes
 layout: category
 order: 1
 seo:
