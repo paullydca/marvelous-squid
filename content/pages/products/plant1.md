@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '7599'
 title: Quest AMT
 description: >-
   If your Quest is to ride a mixture of technical downhill and XC single track
