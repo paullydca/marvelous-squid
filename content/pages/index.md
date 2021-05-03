@@ -76,8 +76,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Planty Theme
-    - name: 'twitter:description'
-      value: The preview of the Planty theme
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
