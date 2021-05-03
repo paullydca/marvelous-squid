@@ -68,9 +68,6 @@ seo:
     - name: 'og:title'
       value: Quest Carbon Cycles
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Planty theme
-      keyName: property
     - name: 'og:image'
       value: /images/150463760_940576776747579_4768869229828866243_o.jpg
       keyName: property
